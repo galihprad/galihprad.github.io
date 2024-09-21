@@ -23,7 +23,7 @@ const Layout = ({ isHomePage, children }) => {
       <header className="global-header">
         {isHomePage ? (
           <h1 className="main-heading">
-            <Link to="/">{parse(title)}</Link>
+            {/* <Link to="/">{parse(title)}</Link> */}
           </h1>
         ) : (
           <Link className="header-link-home" to="/">
@@ -35,11 +35,11 @@ const Layout = ({ isHomePage, children }) => {
       <main>{children}</main>
 
       <footer>
-        © {new Date().getFullYear()}, Built with
+        {/* © {new Date().getFullYear()}, Built with
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
         {` `}
-        And <a href="https://wordpress.org/">WordPress</a>
+        And <a href="https://wordpress.org/">WordPress</a> */}
       </footer>
     </div>
   )

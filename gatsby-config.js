@@ -14,8 +14,13 @@ module.exports = {
    * If you need any more you can search here: https://www.gatsbyjs.com/plugins/
    */
   siteMetadata: {
-    title: "Galih Pradipto Wisnujati"
+    title: "Galih Pradipto Wisnujati",
+    author: {
+      name: `Galih Pradipto Wisnujati`,
+      summary: `Computer Science/Mathematics`,
+    },
   },
+
   plugins: [
     {
       /**
@@ -64,7 +69,7 @@ module.exports = {
         name: `Gatsby Starter WordPress Blog`,
         short_name: `GatsbyJS & WP`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#292a35`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
