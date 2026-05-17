@@ -1,6 +1,7 @@
 #### galih.p.w.j@gmail.com
 
-I'm a researcher, focus on *Graph Theory* and *Theoretical Computer Science*. Currently looking for Ph.D opportunity
+I'm a researcher, focus on *Graph Theory* and *Theoretical Computer Science*.  
+Currently looking for Ph.D opportunity
 
 ***
 
