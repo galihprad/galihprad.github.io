@@ -7,12 +7,13 @@ I'm a researcher, focus on Graph Theory and Theoretical Computer Science. Curren
 ### Education
 #### Master Degree
 Universitas Gadjah Mada, Indonesia  
-Computer Science, 2024
+Computer Science, 2024  
+*Advisor* : Prof. Dr -Ing. Reza Pulungan
 
 #### Bachelor Degree
 Universitas Gadjah Mada, Indonesia  
-Computer Science, 2020
-
+Computer Science, 2020  
+*Advisor* : Wahyono, Ph.D
 ***
 
 ### Publication
