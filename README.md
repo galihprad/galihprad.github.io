@@ -1,6 +1,12 @@
-# galihprad.github.io
-Graph Theory, Theoretical Computer Science, Math Olympiad
+#### galih.p.w.j@gmail.com
 
-### Education
+I'm a researcher, focus on Graph Theory and Theoretical Computer Science. Currently looking for Ph.D opportunity
 
-### Publication
+## Education
+##### Master Degree 
+Universitas Gadjah Mada, Computer Science, 2024
+
+##### Bachelor Degree
+Universitas Gadjah Mada, Computer Science, 2020
+
+## Publication
