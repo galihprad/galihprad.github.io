@@ -2,11 +2,15 @@
 
 I'm a researcher, focus on Graph Theory and Theoretical Computer Science. Currently looking for Ph.D opportunity
 
-## Education
-##### Master Degree 
-Universitas Gadjah Mada, Computer Science, 2024
+### Education
+#### Master Degree
+Universitas Gadjah Mada, Indonesia 
 
-##### Bachelor Degree
-Universitas Gadjah Mada, Computer Science, 2020
+Computer Science, 2024
 
-## Publication
+#### Bachelor Degree
+Universitas Gadjah Mada, Indonesia 
+
+Computer Science, 2020
+
+### Publication
